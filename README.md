@@ -5,10 +5,12 @@
 📦 Front End/ 🥗 Backend/ 🎮 Game Developer/ 🍨 Virtual Reality
 
 ### 🔥 Achivement
-<hr>
-🏆 Won an encouragement prize in the software solution competition (2023)
-<hr>
-🏆 Won 3rd prize in school chess competition (2023)
+<p>🏆 Achieved Japanese N4 scholarship (2021)</p>
+<p>🏆 Received scholarship for the 2022 academic year (semester 2, 3)</p>
+<p>🏆 Won an encouragement prize in the software solution competition (2023)</p>
+<p>🏆 Won 3rd prize in school chess competition (2023)</p>
+<p>🏆 Received scholarship for the 2023 academic year (semester 1, 2, 3)</p>
+<p>🏆 Achieved the title "Student with high achievements in study and training" of Ho Chi Minh City Open University (2024)</p>
 
 ### ⚙️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,python,html,css,javascript,typescript,react,nodejs,express,redux,tailwind,threejs,bootstrap,tensorflow)](https://skillicons.dev)
