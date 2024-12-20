@@ -13,7 +13,7 @@
 <p>🏆 Achieved the title "Student with high achievements in study and training" of Ho Chi Minh City Open University (2024)</p>
 
 ### ⚙️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,python,html,css,javascript,typescript,react,nodejs,express,redux,tailwind,threejs,bootstrap,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,python,html,css,javascript,typescript,react,nodejs,express,redux,tailwind,threejs,bootstrap,tensorflow,unity)](https://skillicons.dev)
 
 ### 🔨 Tools I Use
 [![My Tools I Use](https://skillicons.dev/icons?i=mysql,sqlite,git,github,gitlab,vite,vscode,postgres,postman,rabbitmq,stackoverflow,visualstudio,firebase,elasticsearch,mongodb,docker,kubernetes,npm)](https://skillicons.dev)
