@@ -17,3 +17,10 @@
 
 ### 🔨 Tools I Use
 [![My Tools I Use](https://skillicons.dev/icons?i=mysql,sqlite,git,github,gitlab,vite,vscode,postgres,postman,rabbitmq,stackoverflow,visualstudio,firebase,elasticsearch,mongodb,docker,kubernetes,npm)](https://skillicons.dev)
+
+### ©️ If you want to connect, here is my profile:
+🚀 LeetCode: https://leetcode.com/u/14iwK8NU0m/
+🎯 SoloLearn: https://www.sololearn.com/en/profile/33273122
+📝 CodeForces: https://codeforces.com/profile/trannhattien28032002
+🏆 Hackerrank: https://www.hackerrank.com/profile/trannhattien2801
+🛰️ FreeCodeCamp: https://www.freecodecamp.org/TylerTran
